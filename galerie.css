@@ -1,0 +1,12 @@
+h1{
+text-align: center;
+   font-family: arial;
+  text-decoration: underline;
+}
+
+body{
+  height: 700px;
+  background-image: url(https://cdn.pixabay.com/photo/2016/08/29/21/38/peabody-institute-1629259__340.jpg);
+  background-size: cover;
+  background-position: center;
+}
